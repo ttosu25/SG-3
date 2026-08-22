@@ -1,0 +1,55 @@
+
+## Overview
+
+There are different implementations of a strain gauge using mechanical and optical methods. 
+The type of strain-gauge to be designed and studied is the electrical resistance strain gauge.
+
+These gauges are strongly bonded to the material being measured and they work on the principle that the electrical resistance of a conductive metal changes as it deforms. As the metal compresses and extends so does the gauge. By measuring the electrical signals generated due to these deformations, the object's change in length can be estimated and thus its strain on the surface.
+
+
+## Construction
+
+Consists of:
+ - Conducting foil grid
+ - Insulating plastic film
+ - soldered tabs
+ - alignment ends
+
+The physical length of the grid is selected depending on the application. The shorter the length of the grid the more accurately the approximation of strain. However, a strain value averaged over a longer distance might be more meaningful for measuring strain of composite materials.
+
+
+Different materials change resistance differently under the same unit strain. Materials that change resistance more for the same unit strain produce higher sensitivity strain gauges.
+
+The sensitivity as a strain gauge is quantified by a parameter called the gauge factor K which is the ratio of the relative change in resistance to the strain.
+
+Most general purpose strain gauges use foil grids made of constantan. It's K is moderate (2). Notably because of its performance with temperature. It's gauge factor varies very little between -50 to 150 degrees Celsius. Strain gauges tend to be used to measure small strains usually in the order of 1 to 1000 micro strain.
+
+## Measurement
+
+The principle circuit for the measurement of electrical signals in a strain gauge is a Wheatstone bridge. Its purpose is to determine the electric resistance of the strain gauge before and after a load has been applied.
+
+### Basic Construction
+
+- Four resistors arranged in a diamond shape
+- A galvanometer splitting resistor network
+- Voltage supply
+
+## Temperature compensation
+
+When materials experience temperature changes they expand and contract by a certain amount depending on their coefficient of thermal expansion (CTE) . The strain gauge material and the material being tested will have different CTEs so they will try to expand my different amounts.
+
+This causes differential thermal expansion that gets added to strain different from what we are trying to measure.
+
+### Compensation methods:
+
+- active componesation
+- self compensation
+
+
+## Limitations
+
+- Only measure normal strain in single direction.
+
+
+## References
+https://www.youtube.com/watch?v=CRa9djnZRu0

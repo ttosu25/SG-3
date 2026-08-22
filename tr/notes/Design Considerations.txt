@@ -1,0 +1,14 @@
+The system seems to have a data flow structure as follows:
+
+Force -> Foil Grid -> Piezoelectric signals -> Instrumentation Amplifier -> Signal Conditioning -> Digitization -> strain calculation/data logging system.
+
+A reference voltage must be supplied to the instrumentation amplifier because strain gauges
+can increase and decrease in resistance which produces a positive and negative differential bridge voltage. 
+
+The reference voltage should be half the power supply voltage. A reference voltage at mid supply biases the output voltage of instrumentation amplifier to allow differential measurements in the positive and negative direction.
+
+
+## References
+
+Single-Supply Strain Gauge in a Bridge Configuration
+Reference Design - TDI

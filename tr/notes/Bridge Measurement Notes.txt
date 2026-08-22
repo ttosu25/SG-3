@@ -1,0 +1,33 @@
+## Bridge Configurations
+
+For a Quarter Bridge, current excitation reduces non-linearity error by approximately half.
+
+For a half bridge, the differential measured voltage is two times larger for a given excitation voltage. Thus the configuration doubles the dynamic range compared to the quarter bridge resulting in better ADC measurement
+
+For a half bridge, current excitation completely removes non-linearity error
+
+For a full bridge the sensitivity is two times greater than both two-active element bridge configurations and four times greater than the single active element bridge. Also this configuration inherently has no non-linearity.
+
+## Bridge Connections
+
+A benefit of radiometric measurement is that the measurement is relatively invariant to changes in reference voltage. The output of the ADC code is independent of th eexact value of VREF or excitation voltage.
+
+
+For four wire bridges, the issue is that if the reference voltage leads are too long,
+they can produce a parasitic resistance which increases the percentage error on the measurement of the reference voltage.
+
+## Relevant Definitions
+non-linearity error: the deviation of an actual output curve from an ideal straight line in a measurement or control system
+
+A ratiometric measurement evaluates a target signal by comparing it proportionally to a known reference signal, rather than measuring it as an absolute value.
+
+A Kelvin connection (or four-wire sensing) is a wiring method used to accurately measure voltage drops across a current sense resistor by eliminating the resistance of the copper traces and solder joints
+
+Sense wires, measure voltage without loading the circuit.
+
+
+Output-common-mode voltage: The average voltage between the two outputs of a differential circuit or amplifier relative to a common reference.
+
+
+## References
+A Basic Guide to Bridge Measurements -TI

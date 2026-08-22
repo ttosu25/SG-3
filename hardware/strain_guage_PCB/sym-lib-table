@@ -1,0 +1,13 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCP3561")(type "KiCad")(uri "C:/Users/TTOsu/OneDrive - University of Southampton/KiCad/Imported_libs/ul_MCP3561-E-ST/KiCADv6/2026-07-23_09-48-50.kicad_sym")(options "")(descr ""))
+  (lib (name "OP177GPZ")(type "KiCad")(uri "C:/Users/TTOsu/OneDrive - University of Southampton/KiCad/Imported_libs/ul_OP177GPZ/2026-07-27_11-06-11.kicad_sym")(options "")(descr ""))
+  (lib (name "OPA2187")(type "KiCad")(uri "C:/Users/TTOsu/OneDrive - University of Southampton/KiCad/Imported_libs/ul_OPA2187IDR/KiCADv6/2026-07-28_09-04-15.kicad_sym")(options "")(descr ""))
+  (lib (name "AD9833BRMZ")(type "KiCad")(uri "C:/Users/TTOsu/OneDrive - University of Southampton/KiCad/Imported_libs/ul_AD9833BRMZ/KiCADv6/2026-07-29_14-17-20.kicad_sym")(options "")(descr ""))
+  (lib (name "USBC")(type "KiCad")(uri "C:/Users/TTOsu/OneDrive - University of Southampton/KiCad/Imported_libs/LIB_UJ20-C-H-G-MSMT-4B-P16-TR/UJ20-C-H-G-MSMT-4B-P16-TR/KiCad/UJ20-C-H-G-MSMT-4B-P16-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "MIC5365-3.3YC5-TR")(type "KiCad")(uri "C:/Users/TTOsu/OneDrive - University of Southampton/KiCad/Imported_libs/MIC5365_3_3YC5_TR/KiCADv6/2026-07-31_11-53-24.kicad_sym")(options "")(descr ""))
+  (lib (name "STM32C091CB")(type "KiCad")(uri "C:/Users/TTOsu/OneDrive - University of Southampton/KiCad/Imported_libs/LIB_STM32C091CBT6/STM32C091CBT6/KiCad/STM32C091CBT6.kicad_sym")(options "")(descr ""))
+  (lib (name "MCP2221A-I-SL")(type "KiCad")(uri "C:/Users/TTOsu/OneDrive - University of Southampton/KiCad/Imported_libs/ul_MCP2221A-I-SL/KiCADv6/2026-07-31_15-19-57.kicad_sym")(options "")(descr ""))
+  (lib (name "LM2664")(type "KiCad")(uri "C:/Users/TTOsu/OneDrive - University of Southampton/KiCad/Imported_libs/LM2664M6X_NOPB/KiCADv6/2026-07-31_17-26-27.kicad_sym")(options "")(descr ""))
+  (lib (name "NHD-C12832A1Z-FSW-FBW-3V3")(type "KiCad")(uri "C:/Users/TTOsu/OneDrive - University of Southampton/KiCad/Imported_libs/LIB_NHD-C12832A1Z-FSW-FBW-3V3/NHD-C12832A1Z-FSW-FBW-3V3/KiCad/NHD-C12832A1Z-FSW-FBW-3V3.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,22 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\TTOsu\Github-Projects\SG-3\tr\experiments\sync_demod\logsum.net
+Start Time: Tue Jul 14 18:05:47 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping failed to find operating point. Use".option gminsteps=0" to skip all Gmin stepping.
+Starting source stepping with srcstepmethod=0
+Source stepping succeeded in finding the operating point.
+
+Total elapsed time: 5.828 seconds.
+
+Files loaded:
+C:\Users\TTOsu\Github-Projects\SG-3\tr\experiments\sync_demod\logsum.net
+C:\Users\TTOsu\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\TTOsu\AppData\Local\LTspice\lib\sub\OP177A.lib
+

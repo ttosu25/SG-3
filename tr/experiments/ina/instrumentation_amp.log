@@ -1,0 +1,15 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\TTOsu\Github-Projects\SG-3\tr\experiments\ina\instrumentation_amp.net
+Start Time: Tue Jul 14 14:14:10 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.549 seconds.
+
+Files loaded:
+C:\Users\TTOsu\Github-Projects\SG-3\tr\experiments\ina\instrumentation_amp.net
+C:\Users\TTOsu\AppData\Local\LTspice\lib\sub\OP177A.lib
+

@@ -1,0 +1,17 @@
+Loss of precision of measurements in strain gauges are often as a result of:
+
+-Offset drift : a slow unwanted change in an electronic circuit's output voltage or current over time, even when the input remains constant
+-1/f noise : a type of electronic noise where the noise power is inversely proportional to frequency
+-line noise : EM noise that distorts signals in data transmissions or electrical circuits. It is caused by:
+	- EMI
+	- Impedance mismatching
+	- Power Line fluctuations
+
+There are some solutions to minimise the effect of these sources of error. One solution is to use an ac signal to excite the bridge.
+
+
+Note:
+A parameter of amplifiers that quantify their ability to reject signals that appear identically on both inputs (e.g noise) is called CMRR (Common-Mode Rejection Ratio)
+ 
+## References
+an-683

@@ -1,0 +1,6 @@
+Sensor Gauge C5K-06-S5145-350-33F:
+ 
+- Has a nominal gauge factor of 2.10
+- Has resistance of 350 ± 0.2% (ohms)
+- Has a strain range of ±1.5%
+
