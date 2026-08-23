@@ -23,8 +23,11 @@ Sigma-Delta converters contain integrated features such as digital filters that 
 # Repository Structure
 
 hardware/ — Contains the schematics, PCB layout files, Gerber files, MCU pin assignment, and hardware revisions.
+
 tr/ — Contains technical research and supporting analysis, including datasheets, application notes, initial problem-space exploration, and SPICE simulations with FFT analysis.
+
 docs/ — Contains the project specification, design documentation, and system diagrams.
+
 firmware/ — Contains the programs running on the MCU for the embedded application.
 
 Logbook entries not available.
