@@ -19,6 +19,8 @@ The Bessel response was selected for its absence of overshoot and steeper amplit
 ## Oversampled Sigma Delta ADC
 Sigma-Delta converters contain integrated features such as digital filters that minimise the effect of extrinsic and intrinsic noise sources such as alias signal noise, 50/60hz power noise, RF noise pick up and clock jitter. The Oversampling nature of Sigma-Delta converts also distributes noise over a wider range of frequencies which reduces the effect of quantisation noise.
 
+# Schematic
+![Hardware Schematic](docs/Schematic.png)
 
 # Repository Structure
 
