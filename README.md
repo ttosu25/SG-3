@@ -10,6 +10,7 @@ Strain gauges produce very small differential voltage signals that encode inform
 
 ## AC Current Excitation
   ![AC Current Excitation Block Diagram](docs/Current_Excitation_SG3.drawio.png)
+
 Current-driven AC excitation: Current excitation improves the linearity between applied strain and differential bridge output. Using AC rather than DC excitation reduces measurement offset and drift, mitigates low frequency (1/f) noise, and suppresses parasitic thermoelectric effects.
   
 ## Bessel Filtering
