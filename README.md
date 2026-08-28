@@ -22,6 +22,9 @@ Sigma-Delta converters contain integrated features such as digital filters that 
 # Schematic
 ![Hardware Schematic](docs/schematic.png)
 
+# PCB Layout and Tracing
+![PCB Layout](docs/PCB Layout.png)
+
 # Repository Structure
 
 hardware/ — Contains the schematics, PCB layout files, Gerber files, MCU pin assignment, and hardware revisions.
