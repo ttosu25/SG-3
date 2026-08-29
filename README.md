@@ -41,4 +41,4 @@ firmware/ — Contains the programs running on the MCU for the embedded applicat
 Logbook entries not available.
 
 # Status
-PCB revision in progress; manufacturing pending.
+PCB in fabrication.
