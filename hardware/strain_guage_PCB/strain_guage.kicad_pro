@@ -64,7 +64,7 @@
           ""
         ],
         [
-          "unconnected_items|177000000|67725000|F.Cu|4|9ce82584-c514-4e8b-9ed2-da54d9b91411|5e633c5e-f002-424d-a5f6-ba73470dd07e",
+          "unconnected_items|177000000|67725000|F.Cu|4|9ce82584-c514-4e8b-9ed2-da54d9b91411|2e06b9d9-a356-43b9-adc0-841bc9a46a7d",
           ""
         ],
         [
@@ -91,7 +91,7 @@
         "footprint": "error",
         "footprint_filters_mismatch": "ignore",
         "footprint_symbol_mismatch": "warning",
-        "footprint_type_mismatch": "ignore",
+        "footprint_type_mismatch": "warning",
         "hole_clearance": "error",
         "hole_to_hole": "warning",
         "holes_co_located": "warning",
