@@ -25,6 +25,9 @@ Sigma-Delta converters contain integrated features such as digital filters that 
 # PCB Layout and Tracing
 ![PCB Layout](docs/PCB_Layout.png)
 
+# 3D model view
+![3D model view](docs/3Dview.png)
+
 # Repository Structure
 
 hardware/ — Contains the schematics, PCB layout files, Gerber files, MCU pin assignment, and hardware revisions.
@@ -38,4 +41,4 @@ firmware/ — Contains the programs running on the MCU for the embedded applicat
 Logbook entries not available.
 
 # Status
-PCB revision in progress; manufacturing pending.
+PCB in fabrication.
